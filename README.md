@@ -87,8 +87,8 @@ Caused by: java.lang.StringIndexOutOfBoundsException: String index out of range:
 
 If the bug is fixed, the portlet will deploy without errors, and will render the following text when added to a page:
 
-> Test: resourceLibraryContractsTest
-> Status: SUCCESS
-> Detail: Successfully rendered 2 different resources via Resource Library Contracts.
+> Test: resourceLibraryContractsTest  
+> Status: SUCCESS  
+> Detail: Successfully rendered 2 different resources via Resource Library Contracts.  
 
 The background will also appear blue.
